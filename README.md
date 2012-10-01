@@ -1,4 +1,4 @@
 zinatra
 =======
 
-A simple Sinatra starter app using ZURB foundation for the frontend
+A simple Sinatra starter app using ZURB foundation
